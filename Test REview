@@ -1,0 +1,11 @@
+Know how to create a variable and how to concatenate (or use es6 or string interpolation '${}').
+You need to know how to console.log out information.
+You need to know what modulus is and how it is used.
+You need to know comparisons (><>=<= == !==) and how to make the console say true or false
+You need to know the special string characters  (\t \n \")
+You need to know how to use incrementors (++, +=, --, -=, */, /=)
+using${}  String interpolation, you must do an arithmetic operation
+Need to know how to do a while loop (also how to make it not crash when you run it)
+Need to know "for" loops and how it works (Starting, ending, incrementing)
+How to do an IF/ELSE statment
+How to make a function and how to call a function
